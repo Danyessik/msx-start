@@ -1,0 +1,16 @@
+{
+  "start_menu": [
+    {
+      "name": "ForkPlayer",
+      "url": "http://your-custom-url-for-ForkPlayer"
+    },
+    {
+      "name": "Lazy Media",
+      "url": "http://your-custom-url-for-LazyMedia"
+    },
+    {
+      "name": "HD VideoBox",
+      "url": "http://your-custom-url-for-HDVideoBox"
+    }
+  ]
+}
